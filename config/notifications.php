@@ -34,11 +34,6 @@ return [
             ],
         ],
 
-        'slack' => [
-            'driver' => 'slack',
-        ],
-
-
     ],
 
 
